@@ -14,7 +14,7 @@ R16 Studio is an indie Bulgarian game studio creating dark, story-driven games w
 Fueled by goth vibes, passion, and cold beer — we turn nightmares into art.  
 
 ## 📝 Dev Log
-**v1.1** – Optimization and bug fixes  
+**v0.11.920** – Optimization and bug fixes  
 - Fixed several gameplay bugs  
 - Improved performance  
 - Minor polish and tweaks
