@@ -6,7 +6,7 @@ You wake up in a strange room with no memory, solve puzzles, uncover secrets, an
 ## ⚙️ Features
 - Story-driven puzzles and exploration  
 - Atmospheric horror and dark visuals  
-- Two different endings  
+- Eight different endings  
 - Handcrafted 2D graphics and original soundtrack  
 
 ## 🖤 About R16 Studio
