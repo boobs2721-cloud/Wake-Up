@@ -21,6 +21,3 @@ Fueled by goth vibes, passion, and cold beer — we turn nightmares into art.
 
 ## 🎮 Platforms
 - Windows , Android
-
-## 🍺 Extra
-Dark mysteries, goth vibes, and a cold beer — that’s the R16 Studio way.
